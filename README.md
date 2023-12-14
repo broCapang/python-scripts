@@ -1,4 +1,4 @@
-# scapy-scripts
+# Python scripts
 
 This repository contains my scripts while learning Python.
 
